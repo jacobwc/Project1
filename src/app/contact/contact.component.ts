@@ -12,7 +12,7 @@ export class ContactComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("thie comtact page works");
+    //console.log("thie comtact page works");
   }
 
 }
